@@ -1,0 +1,22 @@
+{
+  "kit": "https://inematds.github.io/primeiro-cliente-com-ia/guia/",
+  "repo": "https://github.com/inematds/primeiro-cliente-com-ia",
+  "kit_commit": "c233498",
+  "portal": "d4d9bd9",
+  "buscas": "fb4544c",
+  "pro": "13778a5",
+  "catalogo_total": 19727,
+  "catalogo_fontes": {
+    "resumo": 2746,
+    "wiki": 157,
+    "projeto": 448,
+    "clip": 13123,
+    "live": 1426,
+    "curso": 384,
+    "telegram": 3,
+    "prompt": 1440
+  },
+  "validacao": "URLs200, browser390/1440 PT/EN/ES sem overflow,13testes portal e content-base aprovados",
+  "avatar_explicativo": "a0e3a92611b54fffa143297a9d0114b6",
+  "r7ex": "/home/nmaldaner/projetos/r7ex/edicoes/2026-11-16-primeiro-cliente-com-ia"
+}
