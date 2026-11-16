@@ -43,5 +43,25 @@
     }
   },
   "player": "https://inematds.github.io/primeiro-cliente-com-ia/videos/",
-  "release": "https://github.com/inematds/primeiro-cliente-com-ia/releases/tag/video-v1.0.0"
+  "release": "https://github.com/inematds/primeiro-cliente-com-ia/releases/tag/video-v1.0.0",
+  "portal_videos": "89c82ff",
+  "portal_videos_url": "https://inema.club/videos/",
+  "telegram_videos": {
+    "topico": 4099,
+    "mensagens": [
+      4130,
+      4131
+    ],
+    "url": "https://t.me/c/3650752323/4131",
+    "conferido": true
+  },
+  "pages_video_commit": "346b5cc",
+  "pages_video_action": 43936270709,
+  "release_arquivos": [
+    "primeiro-cliente-com-ia.mp4",
+    "primeiro-cliente-com-ia.srt",
+    "primeiro-cliente-com-ia-short.mp4",
+    "primeiro-cliente-com-ia-short.srt"
+  ],
+  "verificacoes": "11 URLs públicas acessíveis; player390/1440 e guias PT/EN/ES sem overflow; portal13testes/tsc/build webpack aprovados"
 }
